@@ -1,1 +1,1 @@
-gold-calculator-live
+gold-cal
